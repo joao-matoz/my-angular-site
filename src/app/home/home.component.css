@@ -1,0 +1,12 @@
+h1{
+    font-weight: bold;
+}
+.container{
+    margin-top: 40px;
+    height: 200px;
+    width: 400px;
+    border: solid black;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+}
